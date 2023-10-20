@@ -19,7 +19,7 @@ git clone https://github.com/dreamybo1/ToDoReact.git
 
 **Перейдите в директорию проекта:**
 ```
-cd MoviesDB
+cd ToDoReact
 ```
 
 **Установите зависимости:**
